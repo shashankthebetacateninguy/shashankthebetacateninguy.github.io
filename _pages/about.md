@@ -2,24 +2,26 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Decoding how signaling networks shape immune cell function in disease
+<a href='#'>Affiliations</a>. Institute for Molecular Medicine, University Medical Campus, Mainz, Germany
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+49 1774936423</p>
+    <p>kumshash@uni-mainz.de</p>
+    <p>67, Chattenstrasse, Weisenau</p>
+    <p>Mainz, Rhine-Paletine, 55130</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
-
+,
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_News` folder
 
 latest_posts:
   enabled: true
@@ -27,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am Shashank, I am a Post Doctoral Scientist in Universitat Medicine, Mainz. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi and Wecome. I am a postdoctoral scientist based in Mainz, working in the field of immunology with a focus on intracellular signaling pathways that regulate immune cell function.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research aims to understand how key signaling networks, including the Wnt/β-catenin pathway and the PI3K/AKT pathway, control the development, activation, and functional behavior of B and T lymphocytes in disease contexts such as cancer and inflammation. By combining in vivo models with cellular and molecular approaches, I investigate how signaling pathways integrate to shape immune responses within complex tissue environments.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My long-term goal is to establish an independent research program focused on understanding how signaling pathway crosstalk governs immune cell plasticity and function in disease, with the aim of identifying novel therapeutic strategies.
