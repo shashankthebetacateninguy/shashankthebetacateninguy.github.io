@@ -1,50 +1,43 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Shashank Kumar
+  label: Post Doctoral Scientist
+  email: kumshash@uni-mainz.de
+  location: Mainz, Germany
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: An Indian born molecular biologist with expertise in immunology and molecular signaling focussing on how signaling pathways regulate immune cells. 
+  Experienced in developing and analysing genetically engineered mouse and applying cellular and molecular approaches to study immune regulation in cancer and inflammatory condition.
 
   social_networks:
     - network: X
-      username: AlbertEinstein
+      username: shashanktheWNTguy
     - network: GitHub
-      username: example
+      username: shashank-signalling.github.io
     - network: LinkedIn
-      username: example
+      username: www.linkedin.com/in/shashank-kumar-phd-7b9b3139
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: Institut für Molekulare Medizin, Universitätsmedizin der Johannes Gutenberg-Universität, Geb. 308A, 1. OG,Langenbeckstraße 1
+    city: Mainz
+    region: Rhine-Palatinate
+    postalCode: 55131
+    countryCode: DE
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
+      - institution: University of Mysore
+        location: Mysore, India
+        url: 
+        area: Molecular Genetics
         studyType: PhD
-        start_date: 1900
-        end_date: 1905
+        start_date: 2015
+        end_date: 2023
         score: ""
-        courses: "Theory of Relativity"
+        courses: "Radioprotective mechanism of Omega 3 fatty acids on male physiological profile through Wnt canonical pathway."
         highlights:
-          - Description 1.
-          - Description 2.
+          - Investigated the severity of radiation effects with duration of exposure on different components of physiological system and its molecular control
+          - studied recovery dynamics from radiation effects and role of molecular control of Wnt canonical pathway
+          - Demonstrated the protective effect of Omega 3 fatty acids prevent from radiation induced stress and physiological alterations through Wnt canonical pathway.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
