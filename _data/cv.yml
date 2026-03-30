@@ -2,8 +2,7 @@ cv:
   name: Shashank Kumar
   label: Post Doctoral Scientist
   email: kumshash@uni-mainz.de
-  location: Mainz, Germany
-  image: ""
+  location: Mainz, Germany,
   summary: >
     Molecular biologist with expertise in immunology and intracellular signaling, focusing on how signaling pathways regulate immune cell function. Experienced in developing and analyzing genetically engineered mouse models
     and applying cellular and molecular approaches to study immune regulation in cancer and inflammatory diseases.
@@ -21,19 +20,16 @@ cv:
     city: Mainz
     region: Rhineland-Palatinate
     postalCode: 55131
-    countryCode: DE
 
   sections:
     Education:
       - institution: University of Mysore
         location: Mysore, India
-        url: 
         area: Molecular Genetics
         studyType: PhD
         start_date: 2016
         end_date: 2023
-        score: ""
-        courses: "Radioprotective mechanism of Omega 3 fatty acids on male physiological profile through Wnt canonical pathway."
+        courses: "Radioprotective mechanism of Omega 3 fatty acids on male physiological profile through Wnt canonical pathway"
         highlights:
           - Investigated the impact of radiation exposure duration on physiological systems and underlying molecular regulatory mechanisms
           - Studied recovery dynamics following radiation-induced damage, focusing on the role of the Wnt canonical pathway
@@ -42,12 +38,12 @@ cv:
 
     Skills:
       - name: Molecular Biology and Cell signalling
-        level: Advance
+        level: expert
         icon: fa-solid fa-hashtag
         keywords: "PCR, qPCR, cloning, mutagenesis, Western blot, ELISA, Cell culture, flow cytometry, immunofluorescence, Immunoprecipitation, confocal microscopy"
 
       - name: Analytics and Bioinformatics
-        level: Advance
+        level: expert
         icon: fa-solid fa-hashtag
         keywords: "HPLC, LC-MS, DLS, FPLC, RNA-seq, WES/WGS analysis, R (Seurat), FlowJo, GraphPad Prism, ImageJ"
 
@@ -59,7 +55,7 @@ cv:
         summary: "Fluent"
 
     Interests:
-      - name: Wnt Signaling, Cancer, Immunology, PI3K/AKT Signaling, Radiation Biology
+      - name: Wnt Signaling, Cancer, Immunology, PI3K/AKT Signaling
         icon: fa-solid fa-tag
 
     References:
