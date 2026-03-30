@@ -26,7 +26,7 @@ cv:
     region: Rhineland-Palatinate
     postalCode: 55131
     
-  Sections:
+  sections:
     Education:
       - institution: University of Mysore
         location: Mysore, India
@@ -35,14 +35,12 @@ cv:
         start_date: 2016
         end_date: 2023
         courses:
-          - Radioprotective mechanism of Omega 3 fatty acids on male
-            physiological profile through Wnt canonical pathway        
+          - Radioprotective mechanism of Omega 3 fatty acids on male physiological profile through Wnt canonical pathway        
         highlights:
           - Investigated the impact of radiation exposure duration on
             physiological systems and underlying molecular regulatory mechanisms
-            Studied recovery dynamics following radiation-induced damage, focusing
-            on the role of the Wnt canonical pathway - Demonstrated the protective
-            effects of omega-3 fatty acids against radiation-induced stress and
+          - Studied recovery dynamics following radiation-induced damage, focusing on the role of the Wnt canonical pathway 
+          - Demonstrated the protective effects of omega-3 fatty acids against radiation-induced stress and
             physiological alterations in murine models
             
     Experience:
@@ -97,18 +95,15 @@ cv:
     References:
       - name: Dr Nadine Hövelmeyer
         icon: fa-solid fa-laptop
-        reference: >
-          [Nadine Hövelmeyer](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-hoevelmeyer.html)
+        reference: [Nadine Hövelmeyer](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-hoevelmeyer.html)
           Institute for Molecular Medicine, JGU Mainz – hoevelme@uni-mainz.de
       
       - name: Professor Bjorn E Clausen
         icon: fa-solid fa-laptop
-        reference: >
-          [Bjorn E Clausen](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-clausen.html)
+        reference: [Bjorn E Clausen](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-clausen.html)
           Institute for Molecular Medicine, JGU Mainz – bclausen@uni-mainz.de
       
       - name: Professor Thomas Wunderlich
         icon: fa-solid fa-laptop
-        reference: >
-          Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics 
+        reference: Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics 
           thomas.wunderlich@sf.mpg.de, thomas.wunderlich@uni-koeln.de
