@@ -4,11 +4,10 @@ cv:
   email: kumshash@uni-mainz.de
   location: Mainz, Germany
   image: ""
-  summary: Molecular biologist with expertise in immunology and intracellular signaling,
-  focusing on how signaling pathways regulate immune cell function.
-  Experienced in developing and analyzing genetically engineered mouse models
-  and applying cellular and molecular approaches to study immune regulation
-  in cancer and inflammatory diseases.
+  summary: >
+    Molecular biologist with expertise in immunology and intracellular signaling, focusing on how signaling pathways regulate immune cell function. Experienced in developing and analyzing genetically engineered mouse models
+    and applying cellular and molecular approaches to study immune regulation in cancer and inflammatory diseases.
+    
   social_networks:
     - network: X
       username: shashanktheWNTguy
@@ -18,11 +17,11 @@ cv:
       username: shashank-kumar-phd-7b9b3139
 
   address:
-    -street: "Institut für Molekulare Medizin, Universitätsmedizin der Johannes Gutenberg-Universität"
-    -city: Mainz
-    -region: Rhineland-Palatinate
-    -postalCode: 55131
-    -countryCode: DE
+    street: "Institut für Molekulare Medizin, Universitätsmedizin der Johannes Gutenberg Universität"
+    city: Mainz
+    region: Rhineland-Palatinate
+    postalCode: 55131
+    countryCode: DE
 
   sections:
     Education:
@@ -41,7 +40,7 @@ cv:
           - Demonstrated the protective effects of omega-3 fatty acids against radiation-induced stress and physiological alterations in murine models
 
 
-    Experience:
+    Experience: #
       - company: 
         position: 
         location: 
@@ -50,7 +49,7 @@ cv:
         summary: 
         highlights:
           
-    Awards:
+    Awards: #
       - title: 
         authors:
           - 
@@ -66,7 +65,7 @@ cv:
         awarder: 
         summary: 
 
-    Publications:
+    Publications: #
       - title: 
         authors:
           
@@ -87,12 +86,12 @@ cv:
 
     Skills:
       - name: Molecular Biology and Cell signalling
-        level: 
+        level: #
         icon: fa-solid fa-hashtag
         keywords: "PCR, qPCR, cloning, mutagenesis, Western blot, ELISA, Cell culture, flow cytometry, immunofluorescence, Immunoprecipitation, confocal microscopy"
 
       - name: Analytics and Bioinformatics
-        level: 
+        level: #
         icon: fa-solid fa-hashtag
         keywords: "HPLC, LC-MS, DLS, FPLC, RNA-seq, WES/WGS analysis, R (Seurat), FlowJo, GraphPad Prism, ImageJ"
 
@@ -107,13 +106,13 @@ cv:
       - name: Wnt Signaling, Cancer, Immunology, PI3K/AKT Signaling, Radiation Biology
         icon: fa-solid fa-tag
         
-    Certificates:
+    Certificates: #
       - name: 
         date: 
         issuer: 
         icon: 
 
-    Projects:
+    Projects: #
       - name: 
         summary: 
         highlights:
@@ -130,6 +129,6 @@ cv:
         icon: fa-solid fa-thumbtack
         reference: Institute for Molecular Medicine, JGU Mainz – bclausen@uni-mainz.de
 
-         - name: Professor Thomas Wunderlich
+      - name: Professor Thomas Wunderlich
         icon: fa-solid fa-thumbtack
         reference: Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics – thomas.wunderlich@sf.mpg.de Thomas.wunderlich@uni-koeln.de
