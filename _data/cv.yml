@@ -42,12 +42,12 @@ cv:
 
     Skills:
       - name: Molecular Biology and Cell signalling
-        level: #
+        level: Advance
         icon: fa-solid fa-hashtag
         keywords: "PCR, qPCR, cloning, mutagenesis, Western blot, ELISA, Cell culture, flow cytometry, immunofluorescence, Immunoprecipitation, confocal microscopy"
 
       - name: Analytics and Bioinformatics
-        level: #
+        level: Advance
         icon: fa-solid fa-hashtag
         keywords: "HPLC, LC-MS, DLS, FPLC, RNA-seq, WES/WGS analysis, R (Seurat), FlowJo, GraphPad Prism, ImageJ"
 
@@ -66,13 +66,13 @@ cv:
   - name: Dr Nadine Hövelmeyer
     icon: fa-solid fa-laptop
     reference: >
-      AG Hövelmeyer, Institute for Molecular Medicine, JGU Mainz –
+      [Hövelmeyer Lab](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-hoevelmeyer.html), Institute for Molecular Medicine, JGU Mainz –
       hoevelme@uni-mainz.de
 
   - name: Professor Bjorn E Clausen
     icon: fa-solid fa-laptop
     reference: >
-      Institute for Molecular Medicine, JGU Mainz –
+      [Clausen Lab](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-clausen.html), Institute for Molecular Medicine, JGU Mainz –
       bclausen@uni-mainz.de
 
   - name: Professor Thomas Wunderlich
