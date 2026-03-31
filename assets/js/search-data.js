@@ -155,11 +155,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teachings-data-science-fundamentals",
-          title: 'Data Science Fundamentals',
+            },},{id: "teachings-wnt-canonical-signalling",
+          title: 'Wnt canonical signalling',
           description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/Wnt%20Canonical%20Signalling/";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction To Machine Learning',
           description: "",
