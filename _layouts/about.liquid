@@ -64,17 +64,19 @@ layout: default
 {% endif %}
 
     <!-- Social -->
-    <!-- Social links with hover effect -->
+    <!-- Social links: centered and bigger -->
 <style>
   .social-links {
     display: flex;
-    gap: 12px;
-    align-items: center;
+    justify-content: center; /* centers horizontally */
+    align-items: center;     /* centers vertically */
+    gap: 24px;               /* space between icons, increased */
+    margin-top: 20px;        /* optional spacing above */
   }
 
   .social-links img {
-    width: 32px;
-    height: 32px;
+    width: 64px;
+    height: 64px;
     transition: transform 0.2s, filter 0.2s;
     filter: grayscale(100%);
   }
