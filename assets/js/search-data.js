@@ -120,9 +120,9 @@ ninja.data = [{
           description: "Investigating how canonical Wnt signaling regulates B and T cell development and maintains immune homeostasis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-pi3k-akt-and-wnt-signaling-crosstalk-in-immune-cell-development-and-malignancy",
+          title: 'PI3K/AKT and Wnt Signaling Crosstalk in Immune Cell Development and Malignancy',
+          description: "Exploring how PI3K/AKT and Wnt signaling pathways interact to regulate immune cell fate and contribute to hematologic malignancies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
