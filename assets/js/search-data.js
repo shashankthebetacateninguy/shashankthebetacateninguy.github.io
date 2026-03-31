@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "My research focuses on how intracellular signaling networks regulate immune cell function in health and disease. In particular, I investigate how signaling pathway crosstalk shapes the activation, differentiation, and functional plasticity of lymphocytes within complex tissue environments. Dysregulation of these pathways is a key driver of immune-mediated diseases, including cancer and chronic inflammation. Understanding how these signaling networks integrate at the cellular level provides a framework for identifying new therapeutic strategies.",
+          description: "_My research focuses on how intracellular signaling networks regulate immune cell function in health and disease. In particular, I investigate how signaling pathway crosstalk shapes the activation, differentiation, and functional plasticity of lymphocytes within complex tissue environments. Dysregulation of these pathways is a key driver of immune-mediated diseases, including cancer and chronic inflammation. Understanding how these signaling networks integrate at the cellular level provides a framework for identifying new therapeutic strategies._",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Projects/";
