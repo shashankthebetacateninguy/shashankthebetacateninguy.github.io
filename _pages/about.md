@@ -30,10 +30,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-_**Decoding how signaling networks shape immune cell function in disease**_
+_**Decoding how signaling networks shape immune cell function in diseases**_
 
-Hi and Welcome to my website. My name is Shashank and I am a postdoctoral scientist based in Mainz, working in the field of immunology with a focus on intracellular signaling pathways that regulate immune cell function with [Nadine Hövelmeyer](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-hoevelmeyer.html).
+I am a postdoctoral scientist based in Mainz, working in the field of immunology with a focus on intracellular signaling pathways that regulate immune cell function with [Nadine Hövelmeyer](https://www.unimedizin-mainz.de/molekulare-medizin/en/research-groups/ag-hoevelmeyer.html).
 
-My research aims to understand how key signaling networks, including the Wnt/β-catenin pathway and the PI3K/AKT pathway, control the development, activation, and functional behavior of B and T lymphocytes in disease contexts such as cancer and inflammation. By combining _in vivo_ models with cellular and molecular approaches, I investigate how signaling pathways integrate to shape immune responses within complex tissue environments.
+My research aims to understand how key signaling networks, including the Wnt/β-catenin pathway and the PI3K/AKT pathway, control the development, activation, and functional behavior of B and T lymphocytes in disease contexts such as cancer and inflammation. By combining _in vitro_ and _in vivo_ models with cellular and molecular approaches, I investigate how signaling pathways integrate to shape immune responses within complex tissue environments.
 
 My long-term goal is to establish an independent research program focused on understanding how signaling pathway crosstalk governs immune cell plasticity and function in disease, with the aim of identifying novel therapeutic strategies.
