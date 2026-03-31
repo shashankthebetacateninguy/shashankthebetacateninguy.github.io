@@ -374,9 +374,8 @@ layout: default
 
         <!-- References -->
         {% if site.data.resume.references.size > 0 %}
-  {% if page.references %}
-    {% assign references = page.references | split: "," %}
-  {% endif %}
+        {% if page.references %}
+         {% assign references = page.references | split: "," %}
           <a class="anchor" id="references"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">References</h3>
