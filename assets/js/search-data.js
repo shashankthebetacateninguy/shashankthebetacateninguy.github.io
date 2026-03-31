@@ -125,9 +125,9 @@ ninja.data = [{
           description: "Exploring how PI3K/AKT and Wnt signaling pathways interact to regulate immune cell fate and contribute to hematologic malignancies",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-integrin-beta2-cd18-in-b-cell-development-and-function",
+          title: 'Integrin Beta2 (CD18) in B Cell Development and Function',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
