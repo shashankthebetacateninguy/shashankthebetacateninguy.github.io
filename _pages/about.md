@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>+49 1774936423</p>
     <p>kumshash@uni-mainz.de</p>
-    <p>Institut for Molecular Medicine</p>
+    <p>Institute for Molecular Medicine</p>
     </p>55131 Mainz, Germany</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
