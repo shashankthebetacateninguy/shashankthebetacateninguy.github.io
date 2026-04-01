@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
-title: CV
+permalink: /Curriculum Vitae/
+title: Curriculum Vitae
 nav: true
 nav_order: 1
 cv_pdf: /assets/pdf/Shashank_CV.pdf # you can also use external links here
