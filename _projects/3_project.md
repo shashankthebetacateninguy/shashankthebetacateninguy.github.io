@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PI3K/AKT and Wnt Signaling Crosstalk in Immune Cell Development and Malignancy
-description: Exploring how PI3K/AKT and Wnt signaling pathways interact to regulate immune cell fate and contribute to hematologic malignancies
+title: Integration of signalling and metabolic pathways in immune cell development and malignancy
+description: Exploring how PI3K/AKT and Wnt signaling pathways coordinate to regulate immune cell fate, metabolic programs and hematologic malignancies
 img: assets/img/7.jpg
 importance: 2
 category: work
