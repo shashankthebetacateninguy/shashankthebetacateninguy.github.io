@@ -108,9 +108,9 @@ ninja.data = [{
           description: "Studying how IL-10 helps tumors escape the immune system in colorectal cancer",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-wnt-signaling-in-b-and-t-cell-development",
-          title: 'Wnt Signaling in B and T Cell Development',
-          description: "Investigating how Wnt signaling regulates adaptive immune cell functions and homeostasis.",
+            },},{id: "projects-wnt-signaling-and-adaptive-immunity",
+          title: 'Wnt Signaling and Adaptive Immunity',
+          description: "Investigating how Wnt signaling regulates adaptive immune cells functions and homeostasis.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-pi3k-akt-and-wnt-signaling-crosstalk-in-immune-cell-development-and-malignancy",
