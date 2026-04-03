@@ -157,7 +157,7 @@ ninja.data = [{
           title: 'Wnt non Canonical signalling',
           description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/Wnt%20non-canonical%20Signalling/";
+              window.location.href = "/teachings/Wnt%20Non-Canonical%20Signalling/";
             },},{
         id: 'social-cv',
         title: 'CV',
